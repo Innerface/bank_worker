@@ -1,0 +1,37 @@
+1499653397954	geckodriver	INFO	Listening on 127.0.0.1:56420
+1499653398458	mozprofile::profile	INFO	Using profile path C:\Users\IBM_AD~1\AppData\Local\Temp\rust_mozprofile.c7FTVabMzgJE
+1499653398462	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1499653398473	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56425
+1499653399268	Marionette	INFO	Listening on port 56425
+1499653399696	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20170710110219, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20170710110219, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/tree/js/main.min.js?v=9a7bc408ac5c5ba9cc978f3eea1bb741, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://localhost:8888/static/tree/js/main.min.js?v=9a7bc408ac5c5ba9cc978f3eea1bb741, line 13662: Error: OK
+JavaScript error: http://localhost:8888/static/tree/js/main.min.js?v=9a7bc408ac5c5ba9cc978f3eea1bb741, line 13662: Error: OK
+JavaScript error: http://localhost:8888/static/tree/js/main.min.js?v=9a7bc408ac5c5ba9cc978f3eea1bb741, line 16468: TypeError: can't convert undefined to object
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20170710110219, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20170710110909, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20170710110909, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20170710110909, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20170710110909, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20170710110909, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20170710110909, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20170710110909, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20170710110909, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20170710110909, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20170710110909, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20170710110909, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20170710110909, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20170710110909, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20170710110909, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20170710110909, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8888/static/auth/js/main.min.js?v=20170710110909, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 12156] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 12156] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
